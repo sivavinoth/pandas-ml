@@ -1,6 +1,6 @@
 # pandas-ml
 
-![pandas]("pandas.png")
+![pandas](pandas.png)
 In this i have learned lot about pandas functions
 
 I Have learned about many pandas functionsLike read_csv ,to_csv,mean , dropna 
